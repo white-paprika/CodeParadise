@@ -3,7 +3,7 @@
 <p>This is my first and only major project that I started in August 2023. The goal of the project is to delve into Backend Development.  While working on CodeParadise I've gained knowledge and learned skills including:</p>
 
 <ul>
-    <li>Using migrations, factories, and seeders for convenient database work</li>
+    <li>Using migrations, factories, and seeders for convenient database work (You can check DB in root directory -> DatabaseStructure.png)</li>
     <li>Models: relations (one-to-one, one-to-many, many-to-many), scopes, custom methods</li>
 <br>
     <li>Extracting validation and business logic from controllers using requests and services</li>
