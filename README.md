@@ -37,4 +37,4 @@
     <li>Using Vite</li>
 </ul>
 
-<p>I am also interested in learning more about application architectures and data handling.</p>
+<p>I am looking forward learning more about application architectures and data handling.</p>
