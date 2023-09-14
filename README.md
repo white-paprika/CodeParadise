@@ -35,6 +35,8 @@
     <li>Using blade @yield and @include directives, variables, if-else statements, loop structures </li>
     <li>Pushing data into views with View::composer</li>
     <li>Using Vite</li>
+<br>
+    <li>Performing AJAX requests, rendering data without page reload </li>
 </ul>
 
 <p>I am looking forward learning more about application architectures and data handling.</p>
