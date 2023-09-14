@@ -1,5 +1,5 @@
 <h1>Laravel 10 Bookstore project (in progress)</h1>
-###
+
 <p>This is my first serious project where I am experimenting and learning as much as possible. During this project, I have learned:</p>
 
 <ul>
