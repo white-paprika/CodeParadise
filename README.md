@@ -1,6 +1,6 @@
 <h1>Laravel 10 Bookstore project (in progress)</h1>
 
-<p>This is my first serious project where I am experimenting and learning as much as possible. During this project, I have learned:</p>
+<p>This is my first and only major project that I started in august 2023. The goal of the project is to delve into Backend Development.  While working on CodeParadise I've gained knowledge and learned skills including:</p>
 
 <ul>
     <li>Using migrations, factories, and seeders for convenient database work</li>
