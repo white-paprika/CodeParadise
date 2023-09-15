@@ -21,7 +21,7 @@
     <li>Flashing session data</li>
 <br> 
     <li>Solving N+1 Query Problem in project using Eager Loading </li>
-    <li>Implementing a filtration system with Spatie query builder</li>
+    <li>Implementing a live searching/filtering system using Spatie Query Builder + AJAX</li>
     <li>Monitoring application requests with Laravel Telescope</li>
 <br>    
     <li>Authorization and email verification</li>
