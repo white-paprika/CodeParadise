@@ -1,4 +1,4 @@
-<h1>CodeParadise | Laravel 10 Bookstore project (in progress)</h1>
+<h1>CodeParadise | Laravel 10 Bookstore project</h1>
 
 <p>This is my major Laravel project I started in August 2023. The goal of the project is to delve into Backend Development.  While working on CodeParadise I've gained knowledge and learned skills including:</p>
 
