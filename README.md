@@ -39,4 +39,46 @@
     <li>Performing AJAX requests, rendering data without page reload </li>
 </ul>
 
+<h2>Deployment</h2>
+
+<p> Clone directory </p>
+
+<strong><code>git clone https://github.com/white-paprika/CodeParadise.git</code></strong><br>
+
+<p> Create a database CodeParadiseDB and fill .env </p>
+
+<strong><code>DB_CONNECTION=mysql</code></strong><br>
+
+<strong><code>DB_HOST=127.0.0.1</code></strong><br>
+
+<strong><code>DB_PORT=3306</code></strong><br>
+
+<strong><code>DB_DATABASE=CodeParadiseDB</code></strong><br>
+
+<strong><code>DB_USERNAME=root</code></strong><br>
+
+<strong><code>DB_PASSWORD=</code></strong><br>
+
+<p> Open directory in console and update composer: </p>
+
+<strong><code>composer update</code></strong><br>
+
+<p> Generate tables using migrations:</p>
+
+<strong><code>php artisan migrate</code></strong><br>
+
+<p> Then seed the database:</p>
+
+<strong><code>php artisan db:seed</code></strong><br>
+
+<p> To start the project run: </p>
+
+<strong><code>php artisan serve</code></strong><br>
+
+<p> Then open new console to run NodeJS:</p>
+
+<strong><code>npm install npm run dev</code></strong><br>
+
+<p> Open in browser: http://127.0.0.1:8000 </p>
+
 <p>I am looking forward learning more about application architectures and data handling.</p>
